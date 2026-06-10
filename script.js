@@ -1,3 +1,4 @@
+
 // Scroll suave para nav activo
 const sections = document.querySelectorAll('section[id]');
 const navLinks = document.querySelectorAll('.nav-links a');
